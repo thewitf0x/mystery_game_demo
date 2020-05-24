@@ -1,0 +1,8 @@
+
+You already read the note.
+There's nothing new to gleam from it now.
+But if you want, you can read it again?
+    1. Read the note again.
+    2. Write something with the pen for comparison.
+    3. Destroy it.
+    4. Leave it alone.

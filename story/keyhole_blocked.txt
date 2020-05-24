@@ -1,0 +1,10 @@
+
+With trepidation, you lower yourself to the keyhole.
+Blinking nervously, you level your eye to the aperture and peer through.
+You can't see much. Some light leaking around the edge of something.
+There must be a key in the lock the other side.
+You might be able to dislodge it.
+    1. Try and poke the key out.
+    2. Leave it alone.
+
+

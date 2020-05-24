@@ -1,0 +1,10 @@
+
+The oven is in a dire state.
+Burnt remnants of food are scattered across the hobs.
+Fat puddles are smeared over its surface.
+The knobs and dials practically glisten with grease.
+A pan nearby has some charred, floppy vegetables inside.
+The oven door is ajar and a low hiss indicates gas is still coming out.
+    1. 'ooh, a stir fry! I'm starved.' Spark the ignition.
+    2. 'better turn this off before I black out again.' Disable the gas.
+    3. I'll come back to it. Leave the oven alone.

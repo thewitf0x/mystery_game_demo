@@ -1,0 +1,7 @@
+
+What do you examine?
+    1. The oven
+    2. The coffee table
+    3. The window
+    4. The mirror
+    5. The door
